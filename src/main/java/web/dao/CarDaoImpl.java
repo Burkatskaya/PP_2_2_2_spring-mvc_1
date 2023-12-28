@@ -34,7 +34,7 @@ public class CarDaoImpl implements CarDao {
     public List<Car> listCarsByCount(int count) {
         return count > 0 && count < 5
                 ? IntStream.range(0, cars.size())
-                        .filter(n -> n == count - 1)
+                        .limit(count)
                         .mapToObj(cars::get)
                         .collect(Collectors.toList())
                 : cars;

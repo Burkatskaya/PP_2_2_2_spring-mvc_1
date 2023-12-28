@@ -1,0 +1,74 @@
+28-Dec-2023 23:42:04.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.17
+28-Dec-2023 23:42:04.995 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Dec 7 2023 23:31:38 UTC
+28-Dec-2023 23:42:04.995 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.17.0
+28-Dec-2023 23:42:04.995 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+28-Dec-2023 23:42:04.995 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             13.3.1
+28-Dec-2023 23:42:04.995 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+28-Dec-2023 23:42:04.995 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/burkatskaya/Library/Java/JavaVirtualMachines/openjdk-21.0.1/Contents/Home
+28-Dec-2023 23:42:04.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            21.0.1+12-29
+28-Dec-2023 23:42:04.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+28-Dec-2023 23:42:04.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/burkatskaya/Documents/Java/PP_2_2_2_spring-mvc_1/src/webapp
+28-Dec-2023 23:42:04.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/burkatskaya/Documents/Java/apache-tomcat-10.1.17
+28-Dec-2023 23:42:05.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+28-Dec-2023 23:42:05.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+28-Dec-2023 23:42:05.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+28-Dec-2023 23:42:05.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+28-Dec-2023 23:42:05.008 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+28-Dec-2023 23:42:05.008 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/burkatskaya/Documents/Java/apache-tomcat-10.1.17
+28-Dec-2023 23:42:05.008 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/burkatskaya/Documents/Java/PP_2_2_2_spring-mvc_1/src/webapp
+28-Dec-2023 23:42:05.008 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/burkatskaya/Documents/Java/PP_2_2_2_spring-mvc_1/src/webapp/temp
+28-Dec-2023 23:42:05.008 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/burkatskaya/Documents/Java/PP_2_2_2_spring-mvc_1/src/webapp/conf/logging.properties
+28-Dec-2023 23:42:05.008 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Dec-2023 23:42:05.008 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=54134:/Applications/IntelliJ IDEA CE.app/Contents/bin
+28-Dec-2023 23:42:05.008 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+28-Dec-2023 23:42:05.008 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+28-Dec-2023 23:42:05.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+28-Dec-2023 23:42:05.015 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/burkatskaya/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+28-Dec-2023 23:42:05.183 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 23:42:05.193 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [312] milliseconds
+28-Dec-2023 23:42:05.217 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+28-Dec-2023 23:42:05.217 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.17]
+28-Dec-2023 23:42:05.223 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/burkatskaya/Documents/Java/PP_2_2_2_spring-mvc_1/src/webapp/conf/Catalina/localhost/ROOT.xml]
+28-Dec-2023 23:42:06.180 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+28-Dec-2023 23:42:06.871 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/burkatskaya/Documents/Java/PP_2_2_2_spring-mvc_1/src/webapp/conf/Catalina/localhost/ROOT.xml] has finished in [1 647] ms
+28-Dec-2023 23:42:06.872 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 23:42:06.878 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1684] milliseconds
+28-Dec-2023 23:44:00.263 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 23:44:00.266 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+28-Dec-2023 23:44:00.280 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 23:44:00.290 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 23:49:10.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.17
+28-Dec-2023 23:49:10.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Dec 7 2023 23:31:38 UTC
+28-Dec-2023 23:49:10.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.17.0
+28-Dec-2023 23:49:10.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+28-Dec-2023 23:49:10.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             13.3.1
+28-Dec-2023 23:49:10.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+28-Dec-2023 23:49:10.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/burkatskaya/Library/Java/JavaVirtualMachines/openjdk-21.0.1/Contents/Home
+28-Dec-2023 23:49:10.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            21.0.1+12-29
+28-Dec-2023 23:49:10.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+28-Dec-2023 23:49:10.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/burkatskaya/Documents/Java/PP_2_2_2_spring-mvc_1/src/webapp
+28-Dec-2023 23:49:10.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/burkatskaya/Documents/Java/apache-tomcat-10.1.17
+28-Dec-2023 23:49:10.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+28-Dec-2023 23:49:10.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+28-Dec-2023 23:49:10.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+28-Dec-2023 23:49:10.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+28-Dec-2023 23:49:10.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+28-Dec-2023 23:49:10.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/burkatskaya/Documents/Java/apache-tomcat-10.1.17
+28-Dec-2023 23:49:10.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/burkatskaya/Documents/Java/PP_2_2_2_spring-mvc_1/src/webapp
+28-Dec-2023 23:49:10.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/burkatskaya/Documents/Java/PP_2_2_2_spring-mvc_1/src/webapp/temp
+28-Dec-2023 23:49:10.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/burkatskaya/Documents/Java/PP_2_2_2_spring-mvc_1/src/webapp/conf/logging.properties
+28-Dec-2023 23:49:10.683 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Dec-2023 23:49:10.683 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=54253:/Applications/IntelliJ IDEA CE.app/Contents/bin
+28-Dec-2023 23:49:10.683 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+28-Dec-2023 23:49:10.683 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+28-Dec-2023 23:49:10.683 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+28-Dec-2023 23:49:10.690 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/burkatskaya/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+28-Dec-2023 23:49:10.854 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 23:49:10.864 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [292] milliseconds
+28-Dec-2023 23:49:10.887 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+28-Dec-2023 23:49:10.887 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.17]
+28-Dec-2023 23:49:10.896 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/burkatskaya/Documents/Java/PP_2_2_2_spring-mvc_1/src/webapp/conf/Catalina/localhost/ROOT.xml]
+28-Dec-2023 23:49:11.890 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+28-Dec-2023 23:49:12.581 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/burkatskaya/Documents/Java/PP_2_2_2_spring-mvc_1/src/webapp/conf/Catalina/localhost/ROOT.xml] has finished in [1 685] ms
+28-Dec-2023 23:49:12.583 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 23:49:12.589 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1725] milliseconds

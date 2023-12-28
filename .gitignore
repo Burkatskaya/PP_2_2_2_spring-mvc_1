@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+
+.DS_Store
+
+*.class
+
+bin/
+.settings/
+
+.idea/
+*.iml
+*.ipr
+*.iws
+atlassian-ide-plugin.xml
+
+target/
+
+*.jar
+*.war
+*.ear
