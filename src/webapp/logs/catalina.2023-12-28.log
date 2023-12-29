@@ -72,3 +72,7 @@
 28-Dec-2023 23:49:12.581 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/burkatskaya/Documents/Java/PP_2_2_2_spring-mvc_1/src/webapp/conf/Catalina/localhost/ROOT.xml] has finished in [1 685] ms
 28-Dec-2023 23:49:12.583 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
 28-Dec-2023 23:49:12.589 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1725] milliseconds
+28-Dec-2023 23:55:06.583 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 23:55:06.586 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+28-Dec-2023 23:55:06.615 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 23:55:06.621 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
